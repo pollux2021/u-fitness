@@ -1,6 +1,6 @@
-# vite-react-typescript-starter
+# u-fitness
 
-> vite-react 脚手架, 支持 typescript,less, react-router-dom, vite 环境变量, husky 提交验证
+> 制定健身计划及分析app
 
 ## 开始
 
@@ -26,5 +26,5 @@ yarn build
 ## 提交 commit
 
 ```shell
-yarn commit
+yarn cm
 ```
